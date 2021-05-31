@@ -6,6 +6,11 @@
 
 /* ----- =body decor----- */
 
+body {
+  background-color: white;
+  background: white;
+}
+
 a:link {
   color: red;
 }
